@@ -1,0 +1,1941 @@
+{
+  "classification": [
+    {
+      "user_id": "U001",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 120,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U002",
+      "risk_score": 70,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 70,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U003",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 120,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U004",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 40,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U005",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 120,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U006",
+      "risk_score": 70,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 70,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U007",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 80,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U008",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 120,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U009",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 55,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U010",
+      "risk_score": 85,
+      "tag_weights": {
+        "low_activity": 0.7059,
+        "interest_shift": 0,
+        "content_fatigue": 0.2941,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 127.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U011",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 55,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U012",
+      "risk_score": 85,
+      "tag_weights": {
+        "low_activity": 0.7059,
+        "interest_shift": 0,
+        "content_fatigue": 0.2941,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 127.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U013",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 55,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U014",
+      "risk_score": 85,
+      "tag_weights": {
+        "low_activity": 0.7059,
+        "interest_shift": 0,
+        "content_fatigue": 0.2941,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 85,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U015",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 82.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U016",
+      "risk_score": 85,
+      "tag_weights": {
+        "low_activity": 0.7059,
+        "interest_shift": 0,
+        "content_fatigue": 0.2941,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 85,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U017",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 75,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U018",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.6,
+        "interest_shift": 0,
+        "content_fatigue": 0.25,
+        "social_isolation": 0.15,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 150,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U019",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 37.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U020",
+      "risk_score": 45,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.3333,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 45,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U021",
+      "risk_score": 90,
+      "tag_weights": {
+        "low_activity": 0.6,
+        "interest_shift": 0,
+        "content_fatigue": 0.25,
+        "social_isolation": 0.15,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 135,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U022",
+      "risk_score": 45,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.3333,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 45,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U023",
+      "risk_score": 45,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.3333,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 45,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U024",
+      "risk_score": 65,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 32.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U025",
+      "risk_score": 20,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 10,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U026",
+      "risk_score": 50,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 75,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U027",
+      "risk_score": 50,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 50,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U028",
+      "risk_score": 50,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 25,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U029",
+      "risk_score": 20,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 20,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U030",
+      "risk_score": 65,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 32.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U031",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U032",
+      "risk_score": 65,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 32.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U033",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U034",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U035",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U036",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U037",
+      "risk_score": 30,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 45,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U038",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U039",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U040",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U041",
+      "risk_score": 90,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 90,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U042",
+      "risk_score": 90,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 135,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U043",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 40,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U044",
+      "risk_score": 90,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 135,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U045",
+      "risk_score": 90,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 45,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U046",
+      "risk_score": 60,
+      "tag_weights": {
+        "low_activity": 0.5,
+        "interest_shift": 0.5,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 60,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U047",
+      "risk_score": 60,
+      "tag_weights": {
+        "low_activity": 0.5,
+        "interest_shift": 0.5,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 90,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U048",
+      "risk_score": 90,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 45,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U049",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U050",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U051",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U052",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U053",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U054",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U055",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U056",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U057",
+      "risk_score": 95,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 47.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U058",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 50,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U059",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 150,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U060",
+      "risk_score": 95,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 47.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U061",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 150,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U062",
+      "risk_score": 95,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 47.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U063",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.4,
+        "interest_shift": 0.4,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 75,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U064",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 50,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U065",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U066",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 37.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U067",
+      "risk_score": 15,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 1,
+        "function_issue": 0
+      },
+      "primary_tag": "social_isolation",
+      "secondary_tag": "social_isolation",
+      "priority_score": 7.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U068",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 112.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U069",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U070",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 37.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U071",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U072",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 37.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U073",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 80,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U074",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 82.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U075",
+      "risk_score": 35,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.3333,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 17.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U076",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 40,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U077",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U078",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 80,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U079",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 55,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U080",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U081",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0.6667,
+        "interest_shift": 0.3333,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 40,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U082",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 82.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U083",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 50,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U084",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 80,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U085",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U086",
+      "risk_score": 50,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 25,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U087",
+      "risk_score": 25,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 1,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "content_fatigue",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 25,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U088",
+      "risk_score": 95,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 47.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U089",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U090",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 37.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U091",
+      "risk_score": 80,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 80,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U092",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U093",
+      "risk_score": 95,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 47.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U094",
+      "risk_score": 55,
+      "tag_weights": {
+        "low_activity": 0.5455,
+        "interest_shift": 0,
+        "content_fatigue": 0.4545,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "content_fatigue",
+      "priority_score": 55,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U095",
+      "risk_score": 65,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 97.5,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U096",
+      "risk_score": 100,
+      "tag_weights": {
+        "low_activity": 0.5714,
+        "interest_shift": 0.2857,
+        "content_fatigue": 0,
+        "social_isolation": 0.1429,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "interest_shift",
+      "priority_score": 50,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U097",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U098",
+      "risk_score": 70,
+      "tag_weights": {
+        "low_activity": 0,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 1
+      },
+      "primary_tag": "function_issue",
+      "secondary_tag": "function_issue",
+      "priority_score": 35,
+      "is_applicable": false
+    },
+    {
+      "user_id": "U099",
+      "risk_score": 0,
+      "tag_weights": {
+        "low_activity": 1,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "low_activity",
+      "priority_score": 0,
+      "is_applicable": true
+    },
+    {
+      "user_id": "U100",
+      "risk_score": 75,
+      "tag_weights": {
+        "low_activity": 0.8,
+        "interest_shift": 0,
+        "content_fatigue": 0,
+        "social_isolation": 0.2,
+        "function_issue": 0
+      },
+      "primary_tag": "low_activity",
+      "secondary_tag": "social_isolation",
+      "priority_score": 37.5,
+      "is_applicable": true
+    }
+  ],
+  "copywriting": {
+    "U009": {
+      "basic": "亲爱的郑慧，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 郑慧，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，郑慧。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U010": {
+      "basic": "亲爱的冯涛，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 冯涛，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，冯涛。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U011": {
+      "basic": "亲爱的韩雪，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 韩雪，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，韩雪。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U012": {
+      "basic": "亲爱的杨明，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 杨明，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，杨明。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U013": {
+      "basic": "亲爱的朱丽，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 朱丽，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，朱丽。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U014": {
+      "basic": "亲爱的秦伟，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 秦伟，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，秦伟。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U015": {
+      "basic": "亲爱的许婷，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 许婷，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，许婷。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U016": {
+      "basic": "亲爱的何超，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 何超，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，何超。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U017": {
+      "basic": "亲爱的吕杰，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 吕杰，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，吕杰。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U018": {
+      "basic": "亲爱的曹琳，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 曹琳，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，曹琳。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U019": {
+      "basic": "亲爱的华鹏，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 华鹏，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，华鹏。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U020": {
+      "basic": "亲爱的金怡，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 金怡，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，金怡。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U021": {
+      "basic": "亲爱的魏浩，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 魏浩，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，魏浩。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U022": {
+      "basic": "亲爱的陶欣，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 陶欣，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，陶欣。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U023": {
+      "basic": "亲爱的姜飞，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 姜飞，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，姜飞。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U024": {
+      "basic": "亲爱的沈萍，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 沈萍，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，沈萍。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U025": {
+      "basic": "亲爱的孔宇，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 孔宇，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，孔宇。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U026": {
+      "basic": "亲爱的严文，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 严文，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，严文。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U027": {
+      "basic": "亲爱的蒋宁，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 蒋宁，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，蒋宁。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U028": {
+      "basic": "亲爱的董霞，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 董霞，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，董霞。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U029": {
+      "basic": "亲爱的唐勇，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 唐勇，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，唐勇。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U030": {
+      "basic": "亲爱的史洁，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 史洁，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，史洁。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U031": {
+      "basic": "亲爱的孟军，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 孟军，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，孟军。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U032": {
+      "basic": "亲爱的宋晓，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 宋晓，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，宋晓。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U033": {
+      "basic": "亲爱的黄磊，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 黄磊，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，黄磊。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U034": {
+      "basic": "亲爱的邓芳，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 邓芳，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，邓芳。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U035": {
+      "basic": "亲爱的梁涛，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 梁涛，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，梁涛。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U036": {
+      "basic": "亲爱的彭琳，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 彭琳，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，彭琳。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U037": {
+      "basic": "亲爱的胡伟，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 胡伟，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，胡伟。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U038": {
+      "basic": "亲爱的马静，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 马静，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，马静。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U039": {
+      "basic": "亲爱的罗敏，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 罗敏，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，罗敏。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U040": {
+      "basic": "亲爱的潘辉，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 潘辉，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，潘辉。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U041": {
+      "basic": "亲爱的谢勇，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 谢勇，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，谢勇。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U042": {
+      "basic": "亲爱的邹婷，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 邹婷，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，邹婷。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U043": {
+      "basic": "亲爱的苏娜，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 苏娜，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，苏娜。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U044": {
+      "basic": "亲爱的汪杰，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 汪杰，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，汪杰。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U045": {
+      "basic": "亲爱的田丽，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 田丽，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，田丽。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U046": {
+      "basic": "亲爱的任军，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 任军，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，任军。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U047": {
+      "basic": "亲爱的范霞，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 范霞，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，范霞。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U048": {
+      "basic": "亲爱的方明，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 方明，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，方明。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U049": {
+      "basic": "亲爱的余伟，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 余伟，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，余伟。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U050": {
+      "basic": "亲爱的叶芳，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 叶芳，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，叶芳。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U051": {
+      "basic": "亲爱的卢强，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 卢强，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，卢强。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U052": {
+      "basic": "亲爱的程静，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 程静，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，程静。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U053": {
+      "basic": "亲爱的薛敏，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 薛敏，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，薛敏。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U054": {
+      "basic": "亲爱的蔡涛，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 蔡涛，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，蔡涛。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U055": {
+      "basic": "亲爱的丁琳，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 丁琳，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，丁琳。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U056": {
+      "basic": "亲爱的贾磊，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 贾磊，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，贾磊。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U057": {
+      "basic": "亲爱的侯静，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 侯静，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，侯静。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U058": {
+      "basic": "亲爱的龙伟，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 龙伟，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，龙伟。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U059": {
+      "basic": "亲爱的万芳，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 万芳，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，万芳。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U060": {
+      "basic": "亲爱的汤强，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 汤强，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，汤强。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U061": {
+      "basic": "亲爱的熊敏，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 熊敏，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，熊敏。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U062": {
+      "basic": "亲爱的雷涛，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 雷涛，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，雷涛。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U063": {
+      "basic": "亲爱的段丽，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 段丽，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，段丽。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U064": {
+      "basic": "亲爱的郝杰，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 郝杰，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，郝杰。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U065": {
+      "basic": "亲爱的康军，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 康军，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，康军。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U066": {
+      "basic": "亲爱的毛霞，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 毛霞，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，毛霞。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U067": {
+      "basic": "亲爱的顾静，一个人听歌太孤单了！来看看大家都在听什么爵士热门歌曲吧。",
+      "optimized": "Hi 顾静，你知道吗？爵士风格正有超过百万用户同时在线收听。我们为你筛选了爵士社区最热门的5张歌单，加入大家一起听吧。",
+      "warm": "音乐最好的状态，是有人分享。顾静，在这个爵士的大家庭里，有无数和你一样热爱音乐的人。你不是一个人，我们一起听。"
+    },
+    "U068": {
+      "basic": "亲爱的尹涛，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 尹涛，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，尹涛。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U069": {
+      "basic": "亲爱的石芳，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 石芳，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，石芳。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U070": {
+      "basic": "亲爱的姚伟，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 姚伟，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，姚伟。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U071": {
+      "basic": "亲爱的崔明，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 崔明，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，崔明。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U072": {
+      "basic": "亲爱的邵丽，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 邵丽，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，邵丽。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U074": {
+      "basic": "亲爱的高飞，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 高飞，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，高飞。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U075": {
+      "basic": "亲爱的白琳，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 白琳，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，白琳。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U076": {
+      "basic": "亲爱的武伟，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 武伟，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，武伟。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U077": {
+      "basic": "亲爱的贺芳，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 贺芳，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，贺芳。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U079": {
+      "basic": "亲爱的龚磊，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 龚磊，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，龚磊。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U080": {
+      "basic": "亲爱的文芳，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 文芳，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，文芳。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U081": {
+      "basic": "亲爱的廖涛，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 廖涛，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，廖涛。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U082": {
+      "basic": "亲爱的戴静，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 戴静，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，戴静。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U083": {
+      "basic": "亲爱的夏伟，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 夏伟，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，夏伟。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U085": {
+      "basic": "亲爱的邱敏，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 邱敏，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，邱敏。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U086": {
+      "basic": "亲爱的谭涛，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 谭涛，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，谭涛。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U087": {
+      "basic": "亲爱的曾静，最近听歌有点单调？我们为你精选了全新的古典曲目，刷新你的耳朵！",
+      "optimized": "Hi 曾静，数据分析显示你最近听歌重复度较高。AI已为你匹配了与古典相关但风格多样的新曲目，帮你拓展音乐边界。",
+      "warm": "每一首歌都是一段故事，曾静。当你觉得熟悉的旋律不再新鲜，不妨让我们为你打开一扇新的窗。古典的世界远比你想象的更广阔。"
+    },
+    "U088": {
+      "basic": "亲爱的萧伟，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 萧伟，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，萧伟。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U089": {
+      "basic": "亲爱的袁芳，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 袁芳，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，袁芳。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U090": {
+      "basic": "亲爱的傅敏，好久不见！你喜欢的电子音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 傅敏，根据你的听歌历史，你过去喜欢电子风格。我们为你精选了10首你可能错过的电子新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，傅敏。那些陪伴你度过无数日夜的电子旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U092": {
+      "basic": "亲爱的聂静，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 聂静，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，聂静。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U093": {
+      "basic": "亲爱的刘芳，好久不见！你喜欢的民谣音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 刘芳，根据你的听歌历史，你过去喜欢民谣风格。我们为你精选了10首你可能错过的民谣新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，刘芳。那些陪伴你度过无数日夜的民谣旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U094": {
+      "basic": "亲爱的许伟，好久不见！你喜欢的古典音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 许伟，根据你的听歌历史，你过去喜欢古典风格。我们为你精选了10首你可能错过的古典新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，许伟。那些陪伴你度过无数日夜的古典旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U095": {
+      "basic": "亲爱的何静，好久不见！你喜欢的爵士音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 何静，根据你的听歌历史，你过去喜欢爵士风格。我们为你精选了10首你可能错过的爵士新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，何静。那些陪伴你度过无数日夜的爵士旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U096": {
+      "basic": "亲爱的吕芳，好久不见！你喜欢的R&B音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 吕芳，根据你的听歌历史，你过去喜欢R&B风格。我们为你精选了10首你可能错过的R&B新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，吕芳。那些陪伴你度过无数日夜的R&B旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U097": {
+      "basic": "亲爱的曹伟，好久不见！你喜欢的流行音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 曹伟，根据你的听歌历史，你过去喜欢流行风格。我们为你精选了10首你可能错过的流行新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，曹伟。那些陪伴你度过无数日夜的流行旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U099": {
+      "basic": "亲爱的金涛，好久不见！你喜欢的摇滚音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 金涛，根据你的听歌历史，你过去喜欢摇滚风格。我们为你精选了10首你可能错过的摇滚新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，金涛。那些陪伴你度过无数日夜的摇滚旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    },
+    "U100": {
+      "basic": "亲爱的魏芳，好久不见！你喜欢的说唱音乐还在等你，快回来听听吧。",
+      "optimized": "Hi 魏芳，根据你的听歌历史，你过去喜欢说唱风格。我们为你精选了10首你可能错过的说唱新歌，打开APP即可试听。",
+      "warm": "音乐是生活的调味剂，魏芳。那些陪伴你度过无数日夜的说唱旋律，还在默默等待你的归来。我们一直在，随时欢迎你回来。"
+    }
+  }
+}

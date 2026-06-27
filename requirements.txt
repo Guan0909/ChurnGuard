@@ -1,0 +1,8 @@
+streamlit==1.35.0
+pandas==2.2.2
+plotly==5.22.0
+statsmodels==0.14.2
+pydantic==2.7.4
+pydantic-settings==2.3.4
+loguru==0.7.2
+faker==26.0.0

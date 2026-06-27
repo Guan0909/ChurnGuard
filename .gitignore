@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 环境变量（含密钥，严禁提交）
+.env
+
+# 日志文件
+logs/
+
+# IDE
+.vscode/
+.idea/
+.trae/
+
+# 操作系统
+.DS_Store
+Thumbs.db
